@@ -19,4 +19,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiny-eng&" alt="tiny-eng" /></p>
 
+## 📊 Development Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiny-eng42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+</div>
+
+<br>
