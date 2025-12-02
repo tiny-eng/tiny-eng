@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlous Artegea</h1>
-<h2 align="center">Software Engineer focus on Machine Learning.</h2>
+<h1 align="center">I am a Software Engineer focus on Machine Learning.</h2>
 
 
 - 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
