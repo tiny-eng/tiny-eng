@@ -3,7 +3,7 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
+<h1 align="center">
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm a Senior Software Engineer 🌈<br>
 </h1>
 
