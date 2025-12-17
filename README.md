@@ -62,45 +62,6 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
 
 ---
 
-## 💼 Current Role & Impact
-
-**Data Scientist** at **Daria Hamrah Paytakht** *(Jul 2024 – Present)*
-
-Leading AI initiatives and building production systems that serve enterprise customers:
-
-### 🔥 Key Projects & Achievements
-
-**🧠 Agentic AI Workflows**
-
-- Developed autonomous AI agents capable of performing multi-step root-cause analysis on customer complaints through structured reasoning and retrieval orchestration
-
-- Built agents that autonomously navigate complex decision trees and generate actionable insights
-
-**💬 LLM-Powered Intelligence Systems**
-
-- Built autonomous **Natural-Language-to-SQL agent** capable of understanding Persian queries, generating validated SQL commands, executing on Postgres, and producing automated analysis with visualizations through an end-to-end LLM-driven workflow
-
-- Developed **LLM-powered call-center intelligence pipeline** integrating speech-to-text transcription, entity extraction, and automated agent-performance scoring—substantially improving insight coverage and quality-control effectiveness
-
-- Integrated **LLM agents into analytics dashboards**, enabling conversational insights, automated reporting, and interactive data exploration
-
-**🔍 Enterprise RAG Knowledge Engine**
-
-- Created **enterprise RAG knowledge engine** using hybrid retrieval (semantic + keyword) and advanced re-ranking to enable accurate, context-grounded responses and improved access to organizational knowledge
-
-- Implemented retrieval pipelines optimized for accuracy and relevance in production environments
-
-**📈 Production ML Systems**
-
-- Built **large-scale hybrid recommender system** (content-based + collaborative) enhanced with RFM-based personalization to deliver precise and real-time user targeting
-
-- Designed **aspect-based sentiment analysis framework** to surface issue-level signals across device models, directly supporting after-sales strategy and product optimization
-
-**🎤 Multimodal AI Capabilities**
-
-- Added **production-grade STT and TTS capabilities** for automated report narration, customer-support voice responses, and enhanced call-center automation pipelines
-
----
 
 ## 🛠️ Tech Stack
 
