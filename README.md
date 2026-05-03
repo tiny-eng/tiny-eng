@@ -1,100 +1,164 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">
-<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm a Senior Software Engineer 🌈<br>
+  <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">
+  Hi :) I'm an AI Engineer & Bittensor Subnet Developer 🌈
 </h1>
 
+<h3 align="center">
+  💜 Building decentralized intelligence, autonomous agents, and production-grade AI systems 💜
+</h3>
 
-<h3 align="center">💜 I really like AI 💜</h3>
-<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage">
+</p>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
 </p>
+
 <p align="center" dir="auto">
- <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</article>
-
-
-
-## 🚀 About Me
-
-I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10+ years of experience** designing and deploying **production-grade intelligent systems** at scale. I specialize in cutting-edge AI technologies that drive real business impact:
-
-### 🎯 Core Specializations
-
-**🤖 Agentic AI & Autonomous Workflows**
-
-- Building autonomous AI agents capable of multi-step reasoning and complex task orchestration
-
-- Designing structured reasoning frameworks for root-cause analysis and problem-solving
-
-- Developing retrieval-augmented agentic workflows with external tool integration
-
-**💬 Large Language Models (LLMs) & NLP**
-
-- Fine-tuning GPT, LLaMA, and custom transformer models for domain-specific applications
-
-- Implementing RAG (Retrieval-Augmented Generation) architectures with hybrid retrieval strategies
-
-- Building Natural-Language-to-SQL agents and conversational AI systems
-
-- Advanced prompt engineering and model optimization techniques
-
-**🔍 Enterprise RAG & Knowledge Systems**
-
-- Creating enterprise-grade knowledge engines with hybrid retrieval (semantic + keyword)
-
-- Implementing re-ranking pipelines for improved relevance and accuracy
-
-- Building production RAG systems for organizational knowledge management
-
-**📊 Production ML & MLOps**
-
-- End-to-end ML pipeline development from data ingestion to model deployment
-
-- Scalable recommendation systems for large-scale e-commerce platforms
-
-- Real-time inference systems with optimized performance and latency
+  <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
 
 ---
 
+## 🚀 About Me
+
+I'm a **Senior AI Engineer**, **Bittensor Subnet Developer**, **Miner Operator**, and **Fullstack AI Systems Builder** with **10+ years of experience** designing, deploying, and scaling intelligent software systems.
+
+My work focuses on the intersection of:
+
+- **Decentralized AI**
+- **Bittensor subnets**
+- **Miner and validator architecture**
+- **Agentic AI**
+- **LLMs and RAG**
+- **Production ML systems**
+- **High-performance inference infrastructure**
+
+I enjoy building AI systems that are not only smart, but also **useful, scalable, measurable, and economically aligned**.
+
+---
+
+## 🧠 Bittensor & Decentralized AI
+
+Bittensor is a decentralized machine intelligence network where specialized subnets coordinate miners and validators around useful AI tasks. I focus on building subnet systems where model performance, incentive design, infrastructure reliability, and real-world utility all work together.
+
+### 🔥 Bittensor Focus Areas
+
+- **Subnet Development**
+  - Designing custom subnet architectures
+  - Implementing miner / validator protocols
+  - Building task-specific scoring and reward mechanisms
+  - Developing incentive models for useful AI behavior
+  - Working with Subtensor, metagraphs, wallets, hotkeys, coldkeys, and subnet registration flows
+
+- **Miner Engineering**
+  - Building high-performance miners for AI workloads
+  - Optimizing inference latency, throughput, and reliability
+  - Deploying GPU-backed miner infrastructure
+  - Monitoring miner uptime, emissions, scoring, and competition performance
+  - Hardening miners for long-running production environments
+
+- **Validator & Scoring Systems**
+  - Creating robust validation pipelines
+  - Designing evaluation logic for miner responses
+  - Implementing anti-gaming and quality-control mechanisms
+  - Benchmarking miners using task-specific metrics
+  - Building validator observability and analytics dashboards
+
+- **AI-Native Subnet Use Cases**
+  - LLM inference subnets
+  - RAG and knowledge retrieval subnets
+  - Agentic reasoning subnets
+  - Data intelligence and analytics subnets
+  - Embedding, ranking, classification, and model-serving subnets
+
+---
+
+## ⚙️ What I Build
+
+### 🤖 Agentic AI & Autonomous Workflows
+
+- Autonomous AI agents capable of multi-step reasoning
+- Tool-using agents for search, retrieval, code, data, and APIs
+- LangGraph-based workflow orchestration
+- Planning, reflection, routing, and memory systems
+- Root-cause analysis agents for technical and business workflows
+
+### 💬 LLMs, NLP & RAG
+
+- Production-grade **RAG systems**
+- Hybrid retrieval using semantic search + keyword search
+- Re-ranking pipelines for stronger answer relevance
+- Natural-language-to-SQL agents
+- Domain-specific LLM applications
+- Prompt engineering, evaluation, and model optimization
+
+### 🔍 Enterprise Knowledge Systems
+
+- Internal AI knowledge engines
+- Vector search and metadata filtering
+- Document ingestion and chunking pipelines
+- Embedding infrastructure
+- RAG evaluation frameworks
+- Human-in-the-loop feedback systems
+
+### 📊 Production ML & MLOps
+
+- End-to-end ML pipeline development
+- Real-time inference APIs
+- Recommendation systems
+- Model evaluation and monitoring
+- Data preprocessing and feature engineering
+- Scalable deployment with Docker and cloud infrastructure
+
+---
+
+## 🧬 Bittensor Engineering Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bittensor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAO-Economy-7E3ACE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subnet_Development-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Miner_Operator-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Validator_Tooling-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decentralized_AI-1E3A8A?style=for-the-badge" />
+</p>
+
+### 🛠️ Bittensor Capabilities
+
+- **Subnet protocol design**
+- **Miner implementation**
+- **Validator implementation**
+- **Reward function engineering**
+- **Synthetic task generation**
+- **Scoring and benchmarking**
+- **Metagraph monitoring**
+- **Wallet / hotkey / coldkey operations**
+- **GPU miner deployment**
+- **Dockerized subnet infrastructure**
+- **Logging, metrics, and observability**
+- **Latency and throughput optimization**
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 🧑‍💻 Programming Languages
 
-### 🧑‍💻 Programming Languages :
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-### 🌐 Web Development :
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+### 🤖 AI, LLMs & Machine Learning
 
-### 📱 Mobile Development :
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning :
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white" />
@@ -103,14 +167,64 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
-### 📊 Data Science & Analytics :
+### 🔎 RAG, Search & Knowledge Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-7E3ACE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-FF4F60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hybrid_Retrieval-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Re--Ranking-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-FF6B35?style=for-the-badge" />
+</p>
+
+### 🗃️ Databases & Storage
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 🌐 Backend, APIs & Web Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU_Inference-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CloudFront-F7901E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### 📊 Data Science & Analytics
+
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -121,25 +235,8 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### 🗃️ Databases & Storage :
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### 🧰 Tools & Others
 
-### ☁️ Cloud & DevOps :
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CloudFront-F7901E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🧰 Tools & Others :
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -147,25 +244,64 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
-</p>
 
 ---
 
+## 🧩 Current Engineering Interests
+
+- Building **Bittensor miners** with stronger inference performance
+- Designing **custom subnet incentive mechanisms**
+- Developing **validator scoring pipelines**
+- Creating **agentic AI systems** that can reason, retrieve, and act
+- Optimizing **LLM inference latency and cost**
+- Building **RAG pipelines** with hybrid retrieval and re-ranking
+- Deploying **GPU-backed AI services** in production
+- Exploring decentralized markets for machine intelligence
+
+---
+
+## 🏗️ Featured Areas of Work
+
+| **Area** | **What I Build** | **Core Skills** |
+|---|---|---|
+| **Bittensor Subnets** | Miner / validator protocols, reward logic, scoring systems | Python, Bittensor, Subtensor, Docker |
+| **AI Miners** | GPU inference miners, monitoring, optimization | PyTorch, CUDA, FastAPI, Linux |
+| **Agentic AI** | Autonomous workflows and tool-using agents | LangGraph, LangChain, LLM APIs |
+| **Enterprise RAG** | Knowledge engines and retrieval systems | Qdrant, PostgreSQL, embeddings |
+| **Production ML** | End-to-end ML systems and inference APIs | MLOps, FastAPI, Docker, cloud |
+| **Fullstack AI Apps** | AI-powered dashboards and platforms | Next.js, React, TypeScript, APIs |
+
+---
+
+## 📈 GitHub Stats
+
 <hr/>
+
 <a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny-eng&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny roox GitHub Stats" />
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny-eng&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny-eng GitHub Stats" />
 </a>
 <a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny-eng&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny roox GitHub Stats" />
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny-eng&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny-eng Top Languages" />
 </a>
+
 <hr/>
 
-<p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" height="200" alt="Vector Tool" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="width:75px; height: auto; max-height:80px; display: inline-block;" data-target="animated-image.originalImage">
-</p>
-<div dir="auto" align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
-</div>
+---
 
+## 🌐 Engineering Philosophy
 
+I believe the next generation of AI systems will be:
+
+- **Open**
+- **Decentralized**
+- **Measurable**
+- **Incentive-aligned**
+- **Composable**
+- **Useful in production**
+
+That is why I’m especially excited about **Bittensor**, where intelligence becomes a competitive, decentralized, and permissionless network.
+
+My goal is to build AI systems that perform well in benchmarks, survive real-world usage, and create value for both users and network participants.
+
+---
 
